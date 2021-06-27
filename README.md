@@ -1,5 +1,5 @@
-# Let me ask
-Projeto desenvolvido durante a sexta edição do Next Level Week.
+# Letmeask
+Projeto desenvolvido durante a sexta edição da [Next Level Week Together](https://nextlevelweek.com/).
 
 ![Print da tela inicial do projeto](https://github.com/MatheusSouzaCC/nlw-letmeask/blob/main/letmeask.png?raw=true)
 
