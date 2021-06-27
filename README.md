@@ -1,5 +1,7 @@
 # Letmeask
-Projeto desenvolvido durante a sexta edição da [Next Level Week Together](https://nextlevelweek.com/).
+Projeto desenvolvido durante a sexta edição da [Next Level Week](https://nextlevelweek.com/).
+<br/>
+App hospedado no Firebase: **[Letmeask](https://letmeask-53ad6.web.app/).**
 
 ![Print da tela inicial do projeto](https://github.com/MatheusSouzaCC/nlw-letmeask/blob/main/letmeask.png?raw=true)
 
